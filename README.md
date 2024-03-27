@@ -2,11 +2,11 @@
   <img alt="BrowseWise Logo" src="./assets/logo.png" width="100" />
 </p>
 
-# BrowseWise
+# [BrowseWise](https://browsewise.ai)
 
 ### Enhance your browsing **experience** to the best, not better.
 
-**[BrowseWise](https://www.cognition-labs.com/introducing-devin)** is yet another AI-powered browser extension inspired by Alfred,Raycast
+**[BrowseWise](https://browsewise.ai)** is yet another AI-powered browser extension inspired by Alfred,Raycast
 and Arc browser, but compatible with Chrome, Edge and Firefox. 
 
 > **🤯 BrowseWise is just an idea now, so feel free to decide what features it'll have!**
@@ -64,6 +64,6 @@ Browse zen, no browse sin. Zen reading mode with its dark immersive theme for co
 ### Can I build it myself?
  Yes, you can build it yourself, but you'll likely get a ton of headaches dealing with browser APIs, user experience design, and interface design.
 
-### Do I need technical skills to use BrowseWise?
+### Do I need technical skills to use [BrowseWise](https://browsewise.ai)?
  No, you don't need any technical skills to use BrowseWise. It's designed for all users.
 
