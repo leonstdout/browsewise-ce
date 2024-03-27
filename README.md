@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="BrowseWise Logo" src="./assets/logo.png" width="200" />
+  <img alt="BrowseWise Logo" src="./assets/logo.png" width="100" />
 </p>
 
 # BrowseWise
